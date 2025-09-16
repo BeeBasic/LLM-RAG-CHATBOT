@@ -6,3 +6,25 @@ langchain-ollama
 chromadb  # Vector storage
 pytest
 boto3
+
+# PDF processing
+pypdf
+
+# LangChain core + community integrations
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+
+# Vector DB
+chromadb
+
+# AWS SDK (for Bedrock or S3 if you ever use it)
+boto3
+
+# Testing
+pytest
+
+# Web backend
+flask==3.0.3
+flask-cors==4.0.1
