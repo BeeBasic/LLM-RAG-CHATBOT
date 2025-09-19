@@ -7,11 +7,11 @@ from flask_cors import CORS
 # query_rag(question: str) -> str
 from query_data import query_rag
 
-app = Flask(__name__, static_folder="static", static_url_path="/static")
+app = Flask(__name__, static_folder="static", static_url_path="/")
 CORS(app)
 
 
-@app.route("/", methods=["GET"])
+@app.route("/")
 def index():
     # Serves static/frontend.html
     return app.send_static_file("frontend.html")

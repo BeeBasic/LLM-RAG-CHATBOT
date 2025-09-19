@@ -1,0 +1,90 @@
+
+const { useState, useEffect, useRef } = React;
+
+const App = () => {
+    const [theme, setTheme] = useState('light');
+    const [messages, setMessages] = useState([]);
+    const [input, setInput] = useState('');
+    const [isLoading, setIsLoading] = useState(false);
+    const messagesEndRef = useRef(null);
+
+    const scrollToBottom = () => {
+        messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+    }
+
+    useEffect(() => {
+        scrollToBottom()
+    }, [messages]);
+
+    const toggleTheme = () => {
+        const newTheme = theme === 'light' ? 'dark' : 'light';
+        setTheme(newTheme);
+        document.body.className = `${'''''}${newTheme}${'''''}-theme`;
+    };
+
+    const handleSend = async () => {
+        if (!input.trim()) return;
+
+        const newMessages = [...messages, { text: input, sender: 'user' }];
+        setMessages(newMessages);
+        setInput('');
+        setIsLoading(true);
+
+        try {
+            const response = await fetch('/query', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ question: input }),
+            });
+            const data = await response.json();
+            setMessages([...newMessages, { text: data.answer, sender: 'bot' }]);
+        } catch (error) {
+            console.error('Error:', error);
+            setMessages([...newMessages, { text: 'Sorry, something went wrong.', sender: 'bot' }]);
+        }
+        setIsLoading(false);
+    };
+
+    return (
+        <div id="chatbox">
+            <div id="header">
+                <span>RAG Chatbot</span>
+                <button id="theme-switcher" onClick={toggleTheme}>
+                    {theme === 'light' ? '🌙' : '☀️'}
+                </button>
+            </div>
+            <div id="messages">
+                {messages.map((msg, index) => (
+                    <div key={index} className={`message ${'''''}${msg.sender}${'''''}`}>
+                        <div className="bubble">{msg.text}</div>
+                    </div>
+                ))}
+                {isLoading && (
+                    <div className="message bot">
+                        <div className="bubble">
+                            <div className="typing-indicator">
+                                <span></span><span></span><span></span>
+                            </div>
+                        </div>
+                    </div>
+                )}
+                <div ref={messagesEndRef} />
+            </div>
+            <div id="input-area">
+                <input
+                    id="input"
+                    type="text"
+                    placeholder="Type a message..."
+                    value={input}
+                    onChange={(e) => setInput(e.target.value)}
+                    onKeyPress={(e) => e.key === 'Enter' && handleSend()}
+                />
+                <button id="send" onClick={handleSend}>Send</button>
+            </div>
+        </div>
+    );
+};
+
+ReactDOM.render(<App />, document.getElementById('root'));
