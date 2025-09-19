@@ -13,8 +13,8 @@ CORS(app)
 
 @app.route("/")
 def index():
-    # Serves static/frontend.html
-    return app.send_static_file("frontend.html")
+    # Serves static/index.html
+    return app.send_static_file("index.html")
 
 
 @app.route("/query", methods=["POST"])
