@@ -1,6 +1,2 @@
 flask
-flask_cors
-# Add other dependencies from your original requirements.txt here
-
-# Frontend build dependencies
-jsonschema
+flask-cors
