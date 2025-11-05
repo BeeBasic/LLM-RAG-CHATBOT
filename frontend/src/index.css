@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styling */
+body {
+  @apply bg-gray-900 text-gray-100 min-h-screen;
+}
+
+/* Scrollbar tweaks */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-700 rounded;
+}
+
+/* === Moving Gradient Background === */
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.bg-gradient-animated {
+  background: linear-gradient(-45deg, #000000, #1a102a, #2a1a40, #0d0d0d);
+  background-size: 300% 300%;
+  animation: gradientMove 12s ease infinite;
+}
+
+/* Optional: add subtle “shimmer” overlay for depth */
+.bg-gradient-animated::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 50% 50%, rgba(255,255,255,0.05), transparent 70%);
+  animation: gradientMove 16s ease-in-out infinite;
+  mix-blend-mode: overlay;
+  pointer-events: none;
+}

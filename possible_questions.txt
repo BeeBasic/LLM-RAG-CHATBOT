@@ -1,0 +1,237 @@
+### Questions from AQAR-2023-2024.pdf:
+- Q1: What were the major quality assurance initiatives taken during 2023-2024?
+- Q2: Can you list the new academic programs introduced in the academic year 2023-2024?
+- Q3: How many new faculty members were recruited in 2023-2024?
+- Q4: What was the total research funding received by the institution in 2023-2024?
+- Q5: How many patents were filed or granted in 2023-2024?
+- Q6: What were the key findings from the student satisfaction survey for 2023-2024?
+- Q7: Can you provide details on the major workshops or seminars organized in 2023-2024?
+- Q8: What was the placement percentage for the graduating batch of 2023-2024?
+- Q9: Are there any new collaborations or MoUs signed with other institutions in 2023-2024?
+- Q10: What were the major achievements of the students in national or international competitions in 2023-2024?
+- Q11: What steps were taken to improve the infrastructure and learning resources in 2023-2024?
+- Q12: What were the green initiatives undertaken by the campus in 2023-2024?
+- Q13: Can you list the major publications by faculty members in 2023-2024?
+- Q14: What was the outcome of the academic and administrative audits conducted in 2023-2024?
+- Q15: What were the best practices institutionalized during the year 2023-2024?
+
+### Questions from AY 2019-20 BTECH CSE CPS Doc1.pdf:
+- Q1: What are the program educational objectives (PEOs) for the B.Tech CSE (CPS) program for the 2019-2020 academic year?
+- Q2: Can you list the program outcomes (POs) for the B.Tech CSE (CPS) program?
+- Q3: What is the total number of credits required to complete the B.Tech CSE (CPS) program?
+- Q4: What are the core courses in the first year of the B.Tech CSE (CPS) program?
+- Q5: Can you provide the syllabus for the "Introduction to Cyber-Physical Systems" course?
+- Q6: What are the prerequisites for the "Embedded Systems" course in the B.Tech CSE (CPS) program?
+- Q7: What are the elective courses offered in the final year of the B.Tech CSE (CPS) program?
+- Q8: Can you describe the final year project requirements for B.Tech CSE (CPS) students?
+- Q9: What are the grading policies for the B.Tech CSE (CPS) program?
+- Q10: Are there any mandatory internships for the B.Tech CSE (CPS) program?
+- Q11: What is the course code for "Data Structures and Algorithms"?
+- Q12: Can you list the faculty members who taught the "Computer Networks" course in 2019-2020?
+- Q13: What are the lab components for the "Operating Systems" course?
+- Q14: What is the examination pattern for the mid-term exams?
+- Q15: Are there any bridge courses for students from non-computer science backgrounds?
+
+### Questions from Academic-Regulations.pdf:
+- Q1: What is the minimum attendance requirement to be eligible to write the final exams?
+- Q2: What is the grading scale and how is the CGPA calculated?
+- Q3: What are the rules for course registration and withdrawal?
+- Q4: What is the procedure for applying for a re-evaluation of an exam paper?
+- Q5: What are the consequences of academic misconduct, such as plagiarism?
+- Q6: What are the criteria for being placed on the Dean's List?
+- Q7: What is the maximum duration allowed to complete a B.Tech degree?
+- Q8: What are the rules for credit transfer from other institutions?
+- Q9: What is the process for taking a semester break?
+- Q10: Are there any academic probation policies?
+- Q11: What is the minimum CGPA required for graduation?
+- Q12: What are the regulations for supplementary examinations?
+- Q13: What are the requirements for changing a major or specialization?
+- Q14: What are the rules for late registration?
+- Q15: What is the policy on repeating a course?
+
+### Questions from Annual Report 2023-24(clubs and ecs).pdf:
+- Q1: How many student clubs were active in the academic year 2023-2024?
+- Q2: What were the major events organized by the technical clubs in 2023-2024?
+- Q3: Can you list the new clubs that were formed in 2023-2024?
+- Q4: What were the significant achievements of the cultural clubs in 2023-2024?
+- Q5: How can a student start a new club?
+- Q6: What was the budget allocated for club activities in 2023-2024?
+- Q7: Can you provide details on the annual cultural fest, "Riviera"?
+- Q8: What were the major workshops conducted by the coding clubs?
+- Q9: Are there any social outreach programs organized by the student clubs?
+- Q10: Who is the faculty coordinator for the "Photography Club"?
+- Q11: What were the participation numbers for the major sports tournaments?
+- Q12: Can you list the winners of the intra-college debate competition?
+- Q13: What were the themes for the major hackathons organized in 2023-2024?
+- Q14: Are there any publications or newsletters from the student clubs?
+- Q15: What were the major collaborations between different clubs for events?
+
+### Questions from B.Tech CSE CPS_2023_2024_curri_syllabus_June2024.pdf:
+- Q1: What are the key changes in the B.Tech CSE (CPS) curriculum for 2023-2024 compared to the previous year?
+- Q2: Can you provide the list of new courses introduced in the updated syllabus?
+- Q3: What is the credit distribution for the 2023-2024 B.Tech CSE (CPS) program?
+- Q4: What is the detailed syllabus for the "Internet of Things" course in the updated curriculum?
+- Q5: Are there any new program elective courses added to the curriculum?
+- Q6: What are the updated prerequisites for the "Cloud Computing" course?
+- Q7: Can you list the textbooks and reference materials for the "Artificial Intelligence" course?
+- Q8: What are the learning outcomes for the "Network Security" course?
+- Q9: Are there any changes to the final year project guidelines?
+- Q10: What is the course code for the new "Blockchain Technology" elective?
+- Q11: Are there any new lab components added to the existing courses?
+- Q12: What is the updated faculty list for the CSE department?
+- Q13: Can you provide the course structure for the 5th semester?
+- Q14: What are the assessment criteria for the "Software Engineering" course?
+- Q15: Are there any changes in the industrial training or internship requirements?
+
+### Questions from B.Tech(CSE)-Data-Science_2022_2023.pdf:
+- Q1: What are the core courses in the B.Tech CSE (Data Science) program for the 2022-2023 academic year?
+- Q2: Can you list the program electives available for the Data Science specialization?
+- Q3: What is the syllabus for the "Machine Learning" course?
+- Q4: What are the prerequisites for the "Big Data Analytics" course?
+- Q5: Can you provide details on the "Data Visualization" lab?
+- Q6: What programming languages are taught in the "Introduction to Data Science" course?
+- Q7: Are there any case studies or projects in the "Applied Statistics" course?
+- Q8: What is the credit structure for the B.Tech CSE (Data Science) program?
+- Q9: Who are the faculty members specializing in Data Science?
+- Q10: What are the recommended textbooks for "Natural Language Processing"?
+- Q11: Are there any workshops or guest lectures planned for Data Science students?
+- Q12: What are the software tools used in the "Data Mining" lab?
+- Q13: Can you describe the minor and honors programs available for Data Science students?
+- Q14: What are the career prospects after completing the B.Tech CSE (Data Science) program?
+- Q15: What are the evaluation criteria for the "Deep Learning" course?
+
+### Questions from B.Tech_.-CSE-AIR-2024-25-Curriculum-and-Syllabi.pdf:
+- Q1: What are the key features of the new B.Tech CSE (AI and Robotics) curriculum for 2024-2025?
+- Q2: Can you provide the course structure for the first year of the AIR program?
+- Q3: What are the core subjects in the AI and Robotics specialization?
+- Q4: What is the syllabus for the "Robotics: Kinematics and Dynamics" course?
+- Q5: Are there any new labs or practical sessions introduced in this curriculum?
+- Q6: What are the program elective courses offered in the AIR specialization?
+- Q7: Who are the faculty members with expertise in AI and Robotics?
+- Q8: What are the project work requirements for the AIR program?
+- Q9: Can you list the textbooks for the "Computer Vision" course?
+- Q10: What are the learning outcomes for the "Reinforcement Learning" course?
+- Q11: Are there any industry collaborations for the AIR program?
+- Q12: What is the credit distribution for the AIR curriculum?
+- Q13: What are the prerequisites for the "Autonomous Systems" course?
+- Q14: Are there any interdisciplinary courses included in the AIR curriculum?
+- Q15: What are the career opportunities for graduates of the AIR program?
+
+### Questions from B.Tech_.CSE-AI-ML-2023-24.pdf:
+- Q1: What are the main courses in the B.Tech CSE (AI and Machine Learning) program for 2023-2024?
+- Q2: Can you provide the syllabus for the "Introduction to Artificial Intelligence" course?
+- Q3: What are the program elective courses for the AI-ML specialization?
+- Q4: What are the prerequisites for the "Deep Learning" course?
+- Q5: Can you describe the lab work for the "Natural Language Processing" course?
+- Q6: What are the project-based learning components in the AI-ML curriculum?
+- Q7: Who are the faculty members teaching the "Pattern Recognition" course?
+- Q8: What is the credit structure for the AI-ML program?
+- Q9: Are there any specialized workshops or seminars for AI-ML students?
+- Q10: What are the recommended textbooks for the "Computer Vision" course?
+- Q11: What are the career paths for graduates of the AI-ML program?
+- Q12: Are there any opportunities for research projects in AI and Machine Learning?
+- Q13: What are the evaluation methods for the "Reinforcement Learning" course?
+- Q14: What software and tools are used in the AI-ML labs?
+- Q15: What are the learning objectives of the "AI Ethics" course?
+
+### Questions from B.Tech_CSE_2024_2025.pdf:
+- Q1: What is the overall course structure for the B.Tech CSE program for 2024-2025?
+- Q2: Can you provide the list of core CSE courses for the upcoming academic year?
+- Q3: What are the available specializations within the B.Tech CSE program?
+- Q4: What are the university core and elective requirements?
+- Q5: Can you provide the syllabus for the "Object-Oriented Programming" course?
+- Q6: What are the prerequisites for the "Database Management Systems" course?
+- Q7: What are the guidelines for the final year capstone project?
+- Q8: Are there any changes in the credit requirements for the B.Tech CSE degree?
+- Q9: What are the opportunities for internships and industrial training?
+- Q10: Can you list the open elective courses for CSE students?
+- Q11: What are the new courses, if any, introduced in the 2024-2025 curriculum?
+- Q12: What are the grading policies and examination rules?
+- Q13: What are the program educational objectives (PEOs) for the B.Tech CSE program?
+- Q14: What are the student outcomes (SOs) for the B.Tech CSE program?
+- Q15: Are there any mandatory non-credit courses?
+
+### Questions from Codeofconduct.pdf:
+- Q1: What is the dress code for students on campus?
+- Q2: What are the rules regarding the use of mobile phones in classrooms?
+- Q3: What are the disciplinary actions for academic dishonesty?
+- Q4: What is the policy on ragging and what are the consequences?
+- Q5: Are there any specific rules for hostel residents?
+- Q6: What are the guidelines for using social media?
+- Q7: What are the rules for organizing events and activities on campus?
+- Q8: What is the policy on substance abuse?
+- Q9: What are the expectations for student behavior during campus placements?
+- Q10: What are the rules for using the library and other campus facilities?
+- Q11: What is the grievance redressal mechanism for students?
+- Q12: Are there any rules regarding student protests and demonstrations?
+- Q13: What is the code of conduct for online classes and examinations?
+- Q14: What are the guidelines for student publications and media?
+- Q15: What are the rules for visitors on campus?
+
+### Questions from Hostel_Affidavit_Ladies_2024-Chennai.pdf:
+- Q1: What are the key rules and regulations mentioned in the ladies' hostel affidavit for 2024?
+- Q2: What is the deadline for submitting the hostel affidavit?
+- Q3: What are the consequences of violating a rule in the hostel affidavit?
+- Q4: Are there any specific clauses related to visitors in the ladies' hostel?
+- Q5: What does the affidavit say about the use of electrical appliances in the hostel rooms?
+- Q6: What are the timings for entry and exit from the ladies' hostel?
+- Q7: What are the payment-related clauses in the hostel affidavit?
+- Q8: Does the affidavit mention any anti-ragging undertakings?
+- Q9: What are the responsibilities of the student as per the affidavit?
+- Q10: Are there any health and safety guidelines mentioned in the affidavit?
+- Q11: What is the procedure for vacating the hostel room?
+- Q12: Does the affidavit specify any rules for leave or absence from the hostel?
+- Q13: What are the contact details for the hostel authorities mentioned in the affidavit?
+- Q14: Are there any restrictions on noise levels or social gatherings in the hostel?
+- Q15: What is the policy on room allocation and changes?
+
+### Questions from MH_Code of Conduct 2024-Chennai.pdf:
+- Q1: What are the specific rules for residents of the men's hostel in Chennai for 2024?
+- Q2: What are the visiting hours for guests in the men's hostel?
+- Q3: Are there any restrictions on the use of vehicles by hostel residents?
+- Q4: What is the policy on LAN and internet usage in the men's hostel?
+- Q5: What are a resident's responsibilities for room cleanliness and maintenance?
+- Q6: What are the rules for using the common areas, such as the TV room and sports facilities?
+- Q7: What are the disciplinary measures for violating a rule of the code of conduct?
+- Q8: Is there a curfew for the men's hostel residents?
+- Q9: What is the procedure for reporting a maintenance issue in the hostel?
+- Q10: Are there any rules regarding food and cooking in the hostel rooms?
+- Q11: What is the process for applying for leave from the hostel?
+- Q12: What are the guidelines for celebrating festivals and events in the hostel?
+- Q13: Are there any specific rules about noise and disturbances?
+- Q14: What is the role of the hostel warden and other authorities?
+- Q15: What are the emergency contact numbers for the men's hostel?
+
+### Questions from WH_Code of Conduct_2020.pdf:
+- Q1: What were the main rules in the women's hostel code of conduct for 2020?
+- Q2: What were the guest and visitor policies for the women's hostel in 2020?
+- Q3: Were there any specific dress code requirements mentioned in the 2020 code of conduct?
+- Q4: What were the rules regarding the use of electronic devices in the hostel?
+- Q5: What were the timings for the hostel gate closure in 2020?
+- Q6: What was the procedure for leave and outings for hostel residents?
+- Q7: What were the rules for the mess and dining hall?
+- Q8: Were there any health and hygiene guidelines for the hostel residents?
+- Q9: What were the consequences for misconduct or rule violations?
+- Q10: What was the role and responsibility of the hostel committee?
+- Q11: Were there any restrictions on celebrating birthdays or other personal events?
+- Q12: What was the policy on room inspections?
+- Q13: Were there any specific safety and security measures mentioned?
+- Q14: What was the process for addressing grievances or complaints?
+- Q15: What were the rules for using the common room and other hostel facilities?
+
+### Questions from library-policy-2024.pdf:
+- Q1: What are the library's operating hours for 2024?
+- Q2: How many books can a student borrow at a time and for how long?
+- Q3: What are the fines for overdue books?
+- Q4: What is the procedure for renewing a borrowed book?
+- Q5: Are there any rules for using the digital library and e-resources?
+- Q6: What is the policy on lost or damaged books?
+- Q7: Can students reserve a book that is currently issued to someone else?
+- Q8: What are the rules for using the library's computers and internet?
+- Q9: Are there any restrictions on bringing personal belongings into the library?
+- Q10: What is the process for getting a library membership for new students?
+- Q11: Are there any designated quiet zones or group study areas in the library?
+- Q12: What is a user's responsibility for maintaining silence and decorum in the library?
+- Q13: Can alumni access the library facilities?
+- Q14: What are the rules for photocopying or scanning library materials?
+- Q15: Who should I contact for help with finding a book or using library resources?
